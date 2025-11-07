@@ -38,7 +38,7 @@ usage_and_exit() {
         reinstall_____=' ./reinstall.sh'
     fi
     cat <<EOF
-Usage: $reinstall_____ centos      9
+Usage: $reinstall_____ centos      7|8|9
                        anolis      7|8
                        alma        8|9
                        rocky       8|9
